@@ -1,0 +1,120 @@
+[Adblock Plus]
+! Title: Myフィルター
+
+twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1ylenci.r-1uhd6vh.r-1uaug3w.css-1dbjc4n:nth-of-type(3) > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .r-1adg3ll.css-1dbjc4n > .css-1dbjc4n
+twitter.com##.r-1udh08x.r-1bro5k0.r-ku1wi2.r-rs99b7.r-1phboty.r-1ylenci.r-1uhd6vh.r-1uaug3w.css-1dbjc4n > .css-1dbjc4n
+twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1ylenci.r-1uhd6vh.r-1uaug3w.css-1dbjc4n:nth-of-type(5) > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .r-1adg3ll.css-1dbjc4n > .css-1dbjc4n
+twitter.com##.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1ylenci.r-1uhd6vh.r-1uaug3w.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .r-1adg3ll.css-1dbjc4n > .css-1dbjc4n
+twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1ylenci.r-9cbz99.r-1u4rsef.css-1dbjc4n:nth-of-type(3) > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .r-1adg3ll.css-1dbjc4n > .css-1dbjc4n
+twitter.com##.r-1udh08x.r-1bro5k0.r-ku1wi2.r-rs99b7.r-1phboty.r-1ylenci.r-9cbz99.r-1u4rsef.css-1dbjc4n > .css-1dbjc4n
+twitter.com##.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1ylenci.r-9cbz99.r-1u4rsef.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .r-1adg3ll.css-1dbjc4n > .css-1dbjc4n
+w.atwiki.jp##.announce-layer > .warning-wrapper.atwiki_plugin_divclass
+w.atwiki.jp##div.tabs.atwiki_plugin_divclass
+yakkun.com##.theory_list_container.column
+yakkun.com##.pic_list.menu_list
+yakkun.com##.pic_list_container.column > h2.menu_head
+yakkun.com##.twitter-timeline-rendered.twitter-timeline
+yakkun.com##.menu_box_theory.menu_box
+www.amazon.co.jp###pzjN2nDxz6ziEgeGbthPYw > .fresh-shoveler.aui-desktop.product-shoveler.card-lite.shogun-widget.a-spacing-none.a-section
+www.amazon.co.jp###\32 JLhUvI_qAJSa0-W5HeTMw > .fresh-shoveler.aui-desktop.product-shoveler.card-lite.shogun-widget.a-spacing-none.a-section
+www.amazon.co.jp###jinHDKVMCaQc3ZNpUH6y3A > .fresh-shoveler.aui-desktop.product-shoveler.card-lite.shogun-widget.a-spacing-none.a-section
+www.amazon.co.jp###RTMsgKEe6ontiET8fkhO3A > .fresh-shoveler.aui-desktop.product-shoveler.card-lite.shogun-widget.a-spacing-none.a-section
+www.amazon.co.jp###kKDKlPZWYhm1Ly0iA9A2sw > .fresh-shoveler.aui-desktop.product-shoveler.card-lite.shogun-widget.a-spacing-none.a-section
+www.amazon.co.jp###thfTM2RB_IOkfggtp8NGLw > .fresh-shoveler.aui-desktop.product-shoveler.card-lite.shogun-widget.a-spacing-none.a-section
+tenki.jp##.news-entries-rectangle > ul
+tenki.jp##.clearfix.recent-entries-card-wrap > ul > li
+tenki.jp##.more-link-box > [href="/suppl/"]
+tenki.jp##.more-link-box > [href="/news/"]
+tenki.jp##.clearfix.mb10.recent-entries-news.recent-entries > ul
+tenki.jp##[href="/news/gnp/"]
+kotobank.jp##.grid01
+appmedia.jp###comments
+www.amazon.co.jp###y_iLbfeWug7KtptrqwY-kQ > .fresh-shoveler.aui-desktop.product-shoveler.card-lite.shogun-widget.a-spacing-none.a-section
+www.amazon.co.jp###\38 214zOX7pwiPwMF6S1Cadw > .fresh-shoveler.aui-desktop.product-shoveler.card-lite.shogun-widget.a-spacing-none.a-section
+www.amazon.co.jp###\30 zoGQVU0jOF7XeXv08h-XA > .fresh-shoveler.aui-desktop.product-shoveler.card-lite.shogun-widget.a-spacing-none.a-section
+www.amazon.co.jp###\32 DLWumlMu8DLffZUaBCQJg > .fresh-shoveler.aui-desktop.product-shoveler.card-lite.shogun-widget.a-spacing-none.a-section
+www.amazon.co.jp###siIGdVdS2w03FA4S3_phog > .fresh-shoveler.aui-desktop.product-shoveler.card-lite.shogun-widget.a-spacing-none.a-section
+w.atwiki.jp##.plugin_pcomment_form > ul
+w.atwiki.jp##[href="//w.atwiki.jp/f_go/pages/2481.html"]
+yakkun.com###comment_field
+w.atwiki.jp##.announce-layer
+yakkun.com###comment_delete > div
+shitaraba.net
+game-i.daa.jp
+yaraon-blog.com
+blog.esuteru.com
+ch.esuteru.com
+m.esuteru.com
+blog-img.esuteru.com
+blog.jin115.com
+jin115.com
+pokemon-matome.net
+brow2ing.doorblog.jp
+beelzeboulxxx.com
+shironeko-guild.blog.jp
+wonderfulnews.xyz
+hamusoku.com
+blog.livedoor.jp/dqnplus
+alfalfalfa.com
+news.4vip.livedoor.biz
+himasoku.com
+blog.livedoor.jp/insidears
+kanasoku.info
+www.Kemono-friendsch.com
+irodorich.com
+ohtanishohei-news.com
+p5sokuhou.com
+kemono-friendswiki.com
+kemono-friendsbbs.com
+yaraon.blog109.fc2.com
+yakkun.com###contents > .theory_list > dl
+twitter.com##.r-1udh08x.r-1bro5k0.r-ku1wi2.r-rs99b7.r-1phboty.r-1867qdf.r-1uhd6vh.r-1uaug3w.css-1dbjc4n
+twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1867qdf.r-1uhd6vh.r-1uaug3w.css-1dbjc4n
+twitter.com##.r-1udh08x.r-1bro5k0.r-ku1wi2.r-rs99b7.r-1phboty.r-1867qdf.r-9cbz99.r-1u4rsef.css-1dbjc4n
+twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1867qdf.r-9cbz99.r-1u4rsef.css-1dbjc4n
+pso2.swiki.jp##.pcomment
+yakkun.com##.footer_box.theory_list
+yakkun.com##div.question
+yakkun.com##h4.wanted.next
+yakkun.com##h4.resolve.next
+yakkun.com###contents > div > .more
+yakkun.com##dl > .answer
+yakkun.com###contents > div > dl > dd
+yakkun.com###contents > div > dl > dt
+gamewith.jp##gds-article-comments
+pso2roboarks.jp##.-comment.l-articleBottom__section
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1uhd6vh.r-1uaug3w.css-1dbjc4n:nth-of-type(3)
+twitter.com##.r-1udh08x.r-1bro5k0.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1uhd6vh.r-1uaug3w.css-1dbjc4n > .css-1dbjc4n
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1uhd6vh.r-1uaug3w.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1in3vh1.r-1ihkh82.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n
+twitter.com##.r-1udh08x.r-1bro5k0.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1in3vh1.r-1ihkh82.css-1dbjc4n
+tweetdeck.twitter.com##.replies-after.js-replies-to > article.is-actionable.is-draggable.js-stream-item.stream-item > .js-show-detail.item-box.js-stream-item-content
+tweetdeck.twitter.com##.padding-v--10.txt-link.is-actionable.stream-item.conversation-more.js-conversation-show-more
+www.pixiv.net##.glggnQ.sc-1yvhotl-6
+pso2ngs.swiki.jp##.pcomment
+www.amazon.co.jp###hf6xE2I4wcFDUaYRJawDQQ > .fresh-shoveler.aui-desktop.product-shoveler.card-lite.shogun-widget.a-spacing-none.a-section
+www.amazon.co.jp##.fresh-shoveler.deals-shoveler.shogun-widget.a-spacing-none.a-section
+www.amazon.co.jp###\35 UjVBT4CKkKdPqQHNI4gNA > .fresh-shoveler.aui-desktop.product-shoveler.card-lite.shogun-widget.a-spacing-none.a-section
+www.amazon.co.jp###VIxbZ4ElLnRTOfNlQgW0Qw > .fresh-shoveler.aui-desktop.product-shoveler.card-lite.shogun-widget.a-spacing-none.a-section
+www.amazon.co.jp###UGsxqGffg8YPX8YoIgsN3w > .fresh-shoveler.aui-desktop.product-shoveler.card-lite.shogun-widget.a-spacing-none.a-section
+www.amazon.co.jp###KznRxhyiKTgJE9wL_ylkEA > .fresh-shoveler.aui-desktop.product-shoveler.card-lite.shogun-widget.a-spacing-none.a-section
+pso2.swiki.jp##.dd_colorfff.dd_border888.dd_bgcolor444.dd_padding5.dd_floatright
+pso2ngs.swiki.jp##.dd_colorfff.dd_border888.dd_bgcolor444.dd_padding5.dd_floatright
+w.atwiki.jp##.atwiki-tanuki-recommend
+blog.livedoor.jp###category_ranking
+blog.livedoor.jp###pbp_ranking
+blog.livedoor.jp###blog_news
+blog.livedoor.jp###blog_ranking
+w.atwiki.jp##.atwiki-sp-only.atwiki-anchor
+
+! 2022-02-18 https://sites.google.com
+||www.gstatic.com/atari/embeds/7925c5f8e01bacb9b4b0a3783ae0b867/intermediate-frame-minified.html?jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.ja.FiI_0hYARg0.O%2Fam%3DAQ%2Fd%3D1%2Frs%3DAGLTcCOx432iR22ZfQM0fcFqPaiel29MTA%2Fm%3D__features__&r=375459433$subdocument
+
+! 2022-03-04 https://ma7rogo.blog.jp
+ma7rogo.blog.jp##.extlink.outside-border.blog-footer
+ma7rogo.blog.jp##.blogreader-link
+
+! 2022-06-11 https://appmedia.jp
+appmedia.jp###disp_comments_ul
+appmedia.jp###comments_page_link
+
