@@ -118,3 +118,5 @@ ma7rogo.blog.jp##.blogreader-link
 appmedia.jp###disp_comments_ul
 appmedia.jp###comments_page_link
 
+nicovideo.jp
+dic.nicovideo.jp
