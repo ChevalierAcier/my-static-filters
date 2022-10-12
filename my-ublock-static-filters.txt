@@ -118,3 +118,12 @@ ma7rogo.blog.jp##.blogreader-link
 appmedia.jp###disp_comments_ul
 appmedia.jp###comments_page_link
 
+nicovideo.jp
+dic.nicovideo.jp
+
+! 2022-09-30 https://twitter.com
+twitter.com##.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1f1sjgu.r-ymttw5.r-1ny4l3l.css-1dbjc4n.css-18t94o4
+twitter.com##.r-13qz1uu.r-1ye8kvj.r-1jgb5lz.css-1dbjc4n > section.css-1dbjc4n > .css-1dbjc4n .r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-1f1sjgu.r-ymttw5.r-1ny4l3l.r-1wtj0ep.css-1dbjc4n
+twitter.com##.r-13qz1uu.r-1ye8kvj.r-1jgb5lz.css-1dbjc4n > section.css-1dbjc4n > .css-1dbjc4n .r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1yzf0co.r-ymttw5.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5
+
+
