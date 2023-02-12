@@ -1,13 +1,7 @@
 [Adblock Plus]
 ! Title: Myフィルター
 
-twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1ylenci.r-1uhd6vh.r-1uaug3w.css-1dbjc4n:nth-of-type(3) > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .r-1adg3ll.css-1dbjc4n > .css-1dbjc4n
-twitter.com##.r-1udh08x.r-1bro5k0.r-ku1wi2.r-rs99b7.r-1phboty.r-1ylenci.r-1uhd6vh.r-1uaug3w.css-1dbjc4n > .css-1dbjc4n
-twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1ylenci.r-1uhd6vh.r-1uaug3w.css-1dbjc4n:nth-of-type(5) > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .r-1adg3ll.css-1dbjc4n > .css-1dbjc4n
-twitter.com##.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1ylenci.r-1uhd6vh.r-1uaug3w.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .r-1adg3ll.css-1dbjc4n > .css-1dbjc4n
-twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1ylenci.r-9cbz99.r-1u4rsef.css-1dbjc4n:nth-of-type(3) > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .r-1adg3ll.css-1dbjc4n > .css-1dbjc4n
-twitter.com##.r-1udh08x.r-1bro5k0.r-ku1wi2.r-rs99b7.r-1phboty.r-1ylenci.r-9cbz99.r-1u4rsef.css-1dbjc4n > .css-1dbjc4n
-twitter.com##.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1ylenci.r-9cbz99.r-1u4rsef.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .r-1adg3ll.css-1dbjc4n > .css-1dbjc4n
+
 w.atwiki.jp##.announce-layer > .warning-wrapper.atwiki_plugin_divclass
 w.atwiki.jp##div.tabs.atwiki_plugin_divclass
 yakkun.com##.theory_list_container.column
@@ -41,37 +35,8 @@ w.atwiki.jp##.announce-layer
 yakkun.com###comment_delete > div
 shitaraba.net
 game-i.daa.jp
-yaraon-blog.com
-blog.esuteru.com
-ch.esuteru.com
-m.esuteru.com
-blog-img.esuteru.com
-blog.jin115.com
-jin115.com
-pokemon-matome.net
-brow2ing.doorblog.jp
-beelzeboulxxx.com
-shironeko-guild.blog.jp
-wonderfulnews.xyz
-hamusoku.com
-blog.livedoor.jp/dqnplus
-alfalfalfa.com
-news.4vip.livedoor.biz
-himasoku.com
-blog.livedoor.jp/insidears
-kanasoku.info
-www.Kemono-friendsch.com
-irodorich.com
-ohtanishohei-news.com
-p5sokuhou.com
-kemono-friendswiki.com
-kemono-friendsbbs.com
 yaraon.blog109.fc2.com
 yakkun.com###contents > .theory_list > dl
-twitter.com##.r-1udh08x.r-1bro5k0.r-ku1wi2.r-rs99b7.r-1phboty.r-1867qdf.r-1uhd6vh.r-1uaug3w.css-1dbjc4n
-twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1867qdf.r-1uhd6vh.r-1uaug3w.css-1dbjc4n
-twitter.com##.r-1udh08x.r-1bro5k0.r-ku1wi2.r-rs99b7.r-1phboty.r-1867qdf.r-9cbz99.r-1u4rsef.css-1dbjc4n
-twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1867qdf.r-9cbz99.r-1u4rsef.css-1dbjc4n
 pso2.swiki.jp##.pcomment
 yakkun.com##.footer_box.theory_list
 yakkun.com##div.question
@@ -83,13 +48,6 @@ yakkun.com###contents > div > dl > dd
 yakkun.com###contents > div > dl > dt
 gamewith.jp##gds-article-comments
 pso2roboarks.jp##.-comment.l-articleBottom__section
-twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1uhd6vh.r-1uaug3w.css-1dbjc4n:nth-of-type(3)
-twitter.com##.r-1udh08x.r-1bro5k0.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1uhd6vh.r-1uaug3w.css-1dbjc4n > .css-1dbjc4n
-twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1uhd6vh.r-1uaug3w.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n
-twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1in3vh1.r-1ihkh82.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n
-twitter.com##.r-1udh08x.r-1bro5k0.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1in3vh1.r-1ihkh82.css-1dbjc4n
-tweetdeck.twitter.com##.replies-after.js-replies-to > article.is-actionable.is-draggable.js-stream-item.stream-item > .js-show-detail.item-box.js-stream-item-content
-tweetdeck.twitter.com##.padding-v--10.txt-link.is-actionable.stream-item.conversation-more.js-conversation-show-more
 www.pixiv.net##.glggnQ.sc-1yvhotl-6
 pso2ngs.swiki.jp##.pcomment
 www.amazon.co.jp###hf6xE2I4wcFDUaYRJawDQQ > .fresh-shoveler.aui-desktop.product-shoveler.card-lite.shogun-widget.a-spacing-none.a-section
@@ -120,10 +78,13 @@ appmedia.jp###comments_page_link
 
 nicovideo.jp
 dic.nicovideo.jp
+menu2.swiki.jp
 
-! 2022-09-30 https://twitter.com
-twitter.com##.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1f1sjgu.r-ymttw5.r-1ny4l3l.css-1dbjc4n.css-18t94o4
-twitter.com##.r-13qz1uu.r-1ye8kvj.r-1jgb5lz.css-1dbjc4n > section.css-1dbjc4n > .css-1dbjc4n .r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-1f1sjgu.r-ymttw5.r-1ny4l3l.r-1wtj0ep.css-1dbjc4n
-twitter.com##.r-13qz1uu.r-1ye8kvj.r-1jgb5lz.css-1dbjc4n > section.css-1dbjc4n > .css-1dbjc4n .r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1yzf0co.r-ymttw5.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5
+! 2022-10-20 https://menu2.swiki.jp
+menu2.swiki.jp###contents
 
-
+! 2023-02-11 https://appmedia.jp
+appmedia.jp##.current_comments_container
+appmedia.jp##.page_container
+appmedia.jp##.sort_dom
+appmedia.jp##.search_comments
