@@ -1,3 +1,4 @@
+
 [Adblock Plus]
 ! Title: Myフィルター
 
@@ -88,3 +89,7 @@ appmedia.jp##.current_comments_container
 appmedia.jp##.page_container
 appmedia.jp##.sort_dom
 appmedia.jp##.search_comments
+
+! 2023-02-22 https://tweetdeck.twitter.com
+tweetdeck.twitter.com##.txt-left.txt-size--16.Button--primary.btn.gryphon-beta-btn
+
