@@ -93,3 +93,6 @@ appmedia.jp##.search_comments
 ! 2023-02-22 https://tweetdeck.twitter.com
 tweetdeck.twitter.com##.txt-left.txt-size--16.Button--primary.btn.gryphon-beta-btn
 
+google.com##ul.erkvQe li.sbct:has-text(/(炎上|嫌い|気持ち悪い|特定|なんj|まずい|つまらない|ひどい|死亡|不倫|文春|スキャンダル|サ終|サービス終了|オワコン|死ね|陰謀|事実陳列)/)
+duckduckgo.com##ul.erkvQe li.sbct:has-text(/(炎上|嫌い|気持ち悪い|特定|なんj|まずい|つまらない|ひどい|死亡|不倫|文春|スキャンダル|サ終|サービス終了|オワコン|死ね|陰謀|事実陳列)/)
+twitter.com##ul.erkvQe li.sbct:has-text(/(炎上|嫌い|気持ち悪い|特定|なんj|まずい|つまらない|ひどい|死亡|不倫|文春|スキャンダル|サ終|サービス終了|オワコン|死ね|陰謀|事実陳列)/)
